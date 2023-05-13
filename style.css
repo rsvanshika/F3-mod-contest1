@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(140, 215, 215);
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    border:solid 2px white;
+    color:red;
+    background-color: yellow;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
